@@ -17,5 +17,4 @@
 * Vision
 * Wasp
 * Antman
-* Venon
 
